@@ -40,7 +40,7 @@ A sophisticated Python application that converts vocal melodies from audio files
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/mpdi.git
+   git clone https://github.com/michelrake_756/mpdi.git
    cd mpdi
    ```
 
